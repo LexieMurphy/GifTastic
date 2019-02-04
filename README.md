@@ -9,3 +9,10 @@ Stack all sorts of emotional gifs on top of the previous by clicking new gif but
 Enjoy!
 
 https://lexiemurphy.github.io/GifTastic/
+
+
+Technical approach:
+-made on click functions to add topics to the current button list.
+-on click used ajax call/api to retrieve the data and displayed 10 gifs in relation to the work that was selected in the topic buttons.
+-looped through to append the images in the display.
+-gifs to start in "still" state and animate upon click of them.
